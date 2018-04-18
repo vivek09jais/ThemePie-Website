@@ -167,12 +167,12 @@ img{
 	margin-top: 20px;
 }
 .Our_great_advantages_images {
-	    padding: 80px 0px 80px 0px;
+	    padding: 80px 40px 80px 40px;
 }
 .Our_great_advantages_images img{
 	    width: 100%;
 	    height: 100%;
-	    border-radius: 10px;
+	    border-radius: 50%;
 }
 /* .What_We_Can_Offer_For_You .row{
 	background-color: rgb(40, 136, 226);
